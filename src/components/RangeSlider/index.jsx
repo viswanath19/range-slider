@@ -60,7 +60,6 @@ export default class RangeSlider extends React.Component {
         // this.tooltipRef.current.classList.remove('info-visible');
         const value = el.value;
         this.props.onChange(event, value);
-        localStorage.setItem("current-value",value);
     }
 
     render() {
