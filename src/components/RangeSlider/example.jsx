@@ -11,6 +11,8 @@ class ExampleRangeSlider extends React.PureComponent {
     render() {
         return (
             <div style={{ padding: "40px" }}>
+                <h3>Range Slider</h3>
+                <p>Drag on the input to select the value</p>
                 <RangeSlider
                     width={"100%"}
                     max={100}
@@ -26,3 +28,4 @@ class ExampleRangeSlider extends React.PureComponent {
     }
 }
 export default ExampleRangeSlider;
+
