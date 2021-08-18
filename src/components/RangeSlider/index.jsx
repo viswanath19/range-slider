@@ -1,5 +1,6 @@
 import * as React from "react";
 import * as PropTypes from "prop-types";
+import './_style.css';
 export default class RangeSlider extends React.Component {
     static propTypes = {
         width: PropTypes.string,
