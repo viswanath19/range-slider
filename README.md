@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### I have deployed the app to storybook and can ba accessed with the below URL.
+https://611d5542320bc2003a72670a-ijavxddelt.chromatic.com/?path=/story/rangeslider--basical
+
+### After cloning the project from git we would be needing the simple steps to access in local
+
+1. npm run install - To install the dependencies
+2. npm run storybook - To open the storybook to view the app
+3. npm run start - To view the app on your local browser
+
 ## Available Scripts
 
 In the project directory, you can run:
